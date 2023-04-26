@@ -1,0 +1,6 @@
+runs/
+pretrained/
+response.pickle
+ocr-test-project-384102-f9420196d09d.json
+data.json
+ex.json
